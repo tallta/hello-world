@@ -6,5 +6,6 @@ Hello world プロジェクトを使って GitHub の基本操作を学びます
 2) Issue の切り方
 3) branch の作り方
 4) ファイルの編集から commit の仕方
+5) branch の消し方
 を学んでいます.
 
